@@ -1,0 +1,18 @@
+{
+  "City": {
+    "Ahemdabad": "Ahmedabad",
+    "AHMEDABAD": "Ahmedabad",
+    "ahmedabad": "Ahmedabad",
+    "Ahmedabad ": "Ahmedabad"
+  },
+  "Gender": {
+    "M": "Male",
+    "MALE": "Male",
+    "m": "Male",
+    "male": "Male",
+    "F": "Female",
+    "FEMALE": "Female",
+    "f": "Female",
+    "female": "Female"
+  }
+}
